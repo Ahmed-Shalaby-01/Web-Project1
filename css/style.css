@@ -1141,9 +1141,9 @@ body {
 
 .person-discribe1 {
     position: absolute;
-    width: 450px;
-    top: 68%;
-    left: 66.3%;
+    width: 400px;
+    top: 70%;
+    left: 62.3%;
     transform: translate(-50%, -50%);
     color: #E0E0E0;
     font-weight: 400;
@@ -1157,7 +1157,7 @@ body {
 .person-name2 {
     position: absolute;
     top: 36%;
-    left: 38%;
+    left: 41.9%;
     transform: translate(-50%, -50%);
     color: #FFFFFF;
     font-weight: 800;
